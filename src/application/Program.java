@@ -47,7 +47,9 @@ public class Program {
 			seconds += x.duration();
 		}
 		System.out.println("\nDURAÇÃO TOTAL DO CURSO = " + seconds + " segundos");
-		
+		System.out.println("\nVoltei a fazer o curso \\o/, agora pretende ir até o final, pois em 3 meses acabo meu estágio de desenvolvimento de sistemas(estou a 1 ano e 3 meses no Banrisul, banco do RS)");
+		System.out.println("e pretendo conseguir minha primeira vaga de dev junior, muito obrigado professor Nélio e a toda equipe da devsuperior,");
+		System.out.println("pelo conhecimento que venho adquirindo ao longo desses anos (comecei assistindo la na udemy)!");
 		sc.close();
 
 	}
