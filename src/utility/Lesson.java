@@ -1,9 +1,9 @@
 package utility;
 
-public abstract class Lessoan {
+public abstract class Lesson {
 	protected String title;
 
-	public Lessoan(String title) {
+	public Lesson(String title) {
 		this.title = title;
 	}
 
